@@ -314,8 +314,9 @@ class VideoThumbnailer:
                                 '.mov',
                                 '.mp4',
                                 '.mpg',
-                                '.wmv',
-                                '.mts')
+                                '.mts',
+                                '.webm',
+                                '.wmv')
 
     def __init__(self):
         """
